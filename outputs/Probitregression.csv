@@ -1,0 +1,12 @@
+                    Probit Regression Results                    
+Dep. Variable:  ,employed        ,  No. Observations:  ,  5412   
+Model:          ,Probit          ,  Df Residuals:      ,  5409   
+Method:         ,MLE             ,  Df Model:          ,     2   
+Date:           ,Sat, 09 Nov 2024,  Pseudo R-squ.:     ,0.02325  
+Time:           ,14:09:52        ,  Log-Likelihood:    , -1986.9 
+converged:      ,True            ,  LL-Null:           , -2034.2 
+Covariance Type:,nonrobust       ,  LLR p-value:       ,2.895e-21
+           ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
+const      ,   -1.2579,    0.246,   -5.121, 0.000,   -1.739,   -0.776
+age        ,    0.1217,    0.013,    9.667, 0.000,    0.097,    0.146
+age_squared,   -0.0014,    0.000,   -9.341, 0.000,   -0.002,   -0.001
