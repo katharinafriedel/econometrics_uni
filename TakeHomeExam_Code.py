@@ -12,7 +12,7 @@ from scipy.stats import skew, kurtosis
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
 
-data = pd.read_stata('/Users/katharinafriedel/Library/Mobile Documents/com~apple~CloudDocs/EBS/Semester 3 FT24/Econometrics/Take Home Exam/Data-TakeHome-2024Fall/employment_08_09.dta')
+data = pd.read_stata('file path')
 
 
 # Question A
